@@ -18,7 +18,7 @@
       "year": 2023,
       "trim": "LE",
       "overallRating": 4.5,
-      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "thumbnailUrl": "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-le.jpg",
       "assessmentPath": "acura/acura-ilx-2023-le.json"
     },
     {
