@@ -19,8 +19,8 @@
       "maxScore": 16,
       "description": "Excellent structural integrity maintained",
       "images": [
-        "http://localhost:3000/img/3D-Car-Sample.jpg",
-        "http://localhost:3000/img/3D-Car-Sample.jpg"
+        "https://sheriefshawky.github.io/ncap/public/data/assessments/audi/audi-a6-2023-le.jpg",
+        "https://sheriefshawky.github.io/ncap/public/data/assessments/audi/audi-a6-2023-le.jpg"
       ]
     },
     {
@@ -29,8 +29,8 @@
       "maxScore": 16,
       "description": "Good protection for all critical body areas",
       "images": [
-        "http://localhost:3000/img/3D-Car-Sample.jpg",
-        "http://localhost:3000/img/3D-Car-Sample.jpg"
+        "https://sheriefshawky.github.io/ncap/public/data/assessments/audi/audi-a6-2023-le.jpg",
+        "https://sheriefshawky.github.io/ncap/public/data/assessments/audi/audi-a6-2023-le.jpg"
       ]
     }
   ],
@@ -135,11 +135,11 @@
     "details": "The safety assist systems provided effective support to the driver. Lane keeping and emergency braking systems functioned reliably."
   },
   "images": {
-    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "main": "https://sheriefshawky.github.io/ncap/public/data/assessments/audi/audi-a6-2023-le.jpg",
     "gallery": [
-      "http://localhost:3000/img/3D-Car-Sample.jpg",
-      "http://localhost:3000/img/3D-Car-Sample.jpg",
-      "http://localhost:3000/img/3D-Car-Sample.jpg"
+      "https://sheriefshawky.github.io/ncap/public/data/assessments/audi/audi-a6-2023-le.jpg",
+      "https://sheriefshawky.github.io/ncap/public/data/assessments/audi/audi-a6-2023-le.jpg",
+      "https://sheriefshawky.github.io/ncap/public/data/assessments/audi/audi-a6-2023-le.jpg"
     ]
   },
   "videoUrl": "",
