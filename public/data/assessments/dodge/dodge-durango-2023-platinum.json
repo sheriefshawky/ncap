@@ -19,7 +19,7 @@
       "maxScore": 16,
       "description": "Satisfactory protection for occupants",
       "images": [
-        "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif",
+        "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum-crash1.jpg",
         "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif"
       ]
     },
@@ -29,7 +29,7 @@
       "maxScore": 16,
       "description": "Satisfactory protection for occupants",
       "images": [
-        "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif",
+        "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum-crash1.jpg",
         "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif"
       ]
     },
@@ -39,7 +39,7 @@
       "maxScore": 16,
       "description": "Good protection for all critical body areas",
       "images": [
-        "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif",
+        "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum-crash1.jpg",
         "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif"
       ]
     }
@@ -141,8 +141,8 @@
   "images": {
     "main": "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif",
     "gallery": [
-      "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif",
-      "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif",
+      "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum-1.jfif",
+      "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum-2.jfif",
       "https://sheriefshawky.github.io/ncap/public/data/assessments/dodge/dodge-durango-2023-platinum.jfif"
     ]
   },
