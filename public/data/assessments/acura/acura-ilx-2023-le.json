@@ -19,8 +19,8 @@
       "maxScore": 16,
       "description": "Excellent structural integrity maintained",
       "images": [
-        "http://localhost:3000/img/3D-Car-Sample.jpg",
-        "http://localhost:3000/img/3D-Car-Sample.jpg"
+        "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-le.jpg",
+        "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-le.jpg"
       ]
     },
     {
@@ -135,9 +135,9 @@
   "images": {
     "main": "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-le.jpg",
     "gallery": [
-      "http://localhost:3000/img/3D-Car-Sample.jpg",
-      "http://localhost:3000/img/3D-Car-Sample.jpg",
-      "http://localhost:3000/img/3D-Car-Sample.jpg"
+      "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-le.jpg",
+      "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-le.jpg",
+      "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-le.jpg"
     ]
   },
   "videoUrl": "",
