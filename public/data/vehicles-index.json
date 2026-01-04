@@ -1688,7 +1688,7 @@
       "year": 2025,
       "trim": "Limited",
       "overallRating": 5,
-      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "thumbnailUrl": "https://sheriefshawky.github.io/ncap/public/data/assessments/tesla/tesla-model-x-2025-limited.jfif",
       "assessmentPath": "tesla/tesla-model-x-2025-limited.json"
     },
     {
