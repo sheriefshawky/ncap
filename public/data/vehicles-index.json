@@ -1,0 +1,2005 @@
+{
+  "lastUpdated": "2026-01-03",
+  "vehicles": [
+    {
+      "id": "acura-ilx-2023-platinum",
+      "manufacturer": "Acura",
+      "model": "ILX",
+      "year": 2023,
+      "trim": "Platinum",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-ilx-2023-platinum.json"
+    },
+    {
+      "id": "acura-ilx-2023-le",
+      "manufacturer": "Acura",
+      "model": "ILX",
+      "year": 2023,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-ilx-2023-le.json"
+    },
+    {
+      "id": "acura-ilx-2023-sport",
+      "manufacturer": "Acura",
+      "model": "ILX",
+      "year": 2023,
+      "trim": "Sport",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-ilx-2023-sport.json"
+    },
+    {
+      "id": "acura-integra-2024-se",
+      "manufacturer": "Acura",
+      "model": "Integra",
+      "year": 2024,
+      "trim": "SE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-integra-2024-se.json"
+    },
+    {
+      "id": "acura-mdx-2025-se",
+      "manufacturer": "Acura",
+      "model": "MDX",
+      "year": 2025,
+      "trim": "SE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-mdx-2025-se.json"
+    },
+    {
+      "id": "acura-mdx-2024-sport",
+      "manufacturer": "Acura",
+      "model": "MDX",
+      "year": 2024,
+      "trim": "Sport",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-mdx-2024-sport.json"
+    },
+    {
+      "id": "acura-rdx-2022-le",
+      "manufacturer": "Acura",
+      "model": "RDX",
+      "year": 2022,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-rdx-2022-le.json"
+    },
+    {
+      "id": "acura-rdx-2023-premium",
+      "manufacturer": "Acura",
+      "model": "RDX",
+      "year": 2023,
+      "trim": "Premium",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-rdx-2023-premium.json"
+    },
+    {
+      "id": "acura-rdx-2024-base",
+      "manufacturer": "Acura",
+      "model": "RDX",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-rdx-2024-base.json"
+    },
+    {
+      "id": "acura-tlx-2022-xle",
+      "manufacturer": "Acura",
+      "model": "TLX",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "acura/acura-tlx-2022-xle.json"
+    },
+    {
+      "id": "audi-a4-2024-le",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "year": 2024,
+      "trim": "LE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "audi/audi-a4-2024-le.json"
+    },
+    {
+      "id": "audi-a4-2025-limited",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "year": 2025,
+      "trim": "Limited",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "audi/audi-a4-2025-limited.json"
+    },
+    {
+      "id": "audi-a4-2025-luxury",
+      "manufacturer": "Audi",
+      "model": "A4",
+      "year": 2025,
+      "trim": "Luxury",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "audi/audi-a4-2025-luxury.json"
+    },
+    {
+      "id": "audi-a6-2023-le",
+      "manufacturer": "Audi",
+      "model": "A6",
+      "year": 2023,
+      "trim": "LE",
+      "overallRating": 4.9,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "audi/audi-a6-2023-le.json"
+    },
+    {
+      "id": "audi-e-tron-2022-xle",
+      "manufacturer": "Audi",
+      "model": "e-tron",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "audi/audi-e-tron-2022-xle.json"
+    },
+    {
+      "id": "audi-q7-2022-base",
+      "manufacturer": "Audi",
+      "model": "Q7",
+      "year": 2022,
+      "trim": "Base",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "audi/audi-q7-2022-base.json"
+    },
+    {
+      "id": "audi-q7-2024-limited",
+      "manufacturer": "Audi",
+      "model": "Q7",
+      "year": 2024,
+      "trim": "Limited",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "audi/audi-q7-2024-limited.json"
+    },
+    {
+      "id": "audi-q8-2022-platinum",
+      "manufacturer": "Audi",
+      "model": "Q8",
+      "year": 2022,
+      "trim": "Platinum",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "audi/audi-q8-2022-platinum.json"
+    },
+    {
+      "id": "bmw-7-series-2025-le",
+      "manufacturer": "BMW",
+      "model": "7 Series",
+      "year": 2025,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "bmw/bmw-7-series-2025-le.json"
+    },
+    {
+      "id": "bmw-ix-2024-platinum",
+      "manufacturer": "BMW",
+      "model": "iX",
+      "year": 2024,
+      "trim": "Platinum",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "bmw/bmw-ix-2024-platinum.json"
+    },
+    {
+      "id": "bmw-ix-2025-platinum",
+      "manufacturer": "BMW",
+      "model": "iX",
+      "year": 2025,
+      "trim": "Platinum",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "bmw/bmw-ix-2025-platinum.json"
+    },
+    {
+      "id": "bmw-x5-2022-le",
+      "manufacturer": "BMW",
+      "model": "X5",
+      "year": 2022,
+      "trim": "LE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "bmw/bmw-x5-2022-le.json"
+    },
+    {
+      "id": "buick-enclave-2023-limited",
+      "manufacturer": "Buick",
+      "model": "Enclave",
+      "year": 2023,
+      "trim": "Limited",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "buick/buick-enclave-2023-limited.json"
+    },
+    {
+      "id": "buick-envision-2025-platinum",
+      "manufacturer": "Buick",
+      "model": "Envision",
+      "year": 2025,
+      "trim": "Platinum",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "buick/buick-envision-2025-platinum.json"
+    },
+    {
+      "id": "buick-regal-2022-base",
+      "manufacturer": "Buick",
+      "model": "Regal",
+      "year": 2022,
+      "trim": "Base",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "buick/buick-regal-2022-base.json"
+    },
+    {
+      "id": "buick-regal-2023-premium",
+      "manufacturer": "Buick",
+      "model": "Regal",
+      "year": 2023,
+      "trim": "Premium",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "buick/buick-regal-2023-premium.json"
+    },
+    {
+      "id": "cadillac-ct5-2023-xle",
+      "manufacturer": "Cadillac",
+      "model": "CT5",
+      "year": 2023,
+      "trim": "XLE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "cadillac/cadillac-ct5-2023-xle.json"
+    },
+    {
+      "id": "cadillac-xt5-2023-se",
+      "manufacturer": "Cadillac",
+      "model": "XT5",
+      "year": 2023,
+      "trim": "SE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "cadillac/cadillac-xt5-2023-se.json"
+    },
+    {
+      "id": "cadillac-xt5-2022-premium",
+      "manufacturer": "Cadillac",
+      "model": "XT5",
+      "year": 2022,
+      "trim": "Premium",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "cadillac/cadillac-xt5-2022-premium.json"
+    },
+    {
+      "id": "chevrolet-colorado-2024-luxury",
+      "manufacturer": "Chevrolet",
+      "model": "Colorado",
+      "year": 2024,
+      "trim": "Luxury",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chevrolet/chevrolet-colorado-2024-luxury.json"
+    },
+    {
+      "id": "chevrolet-colorado-2024-xle",
+      "manufacturer": "Chevrolet",
+      "model": "Colorado",
+      "year": 2024,
+      "trim": "XLE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chevrolet/chevrolet-colorado-2024-xle.json"
+    },
+    {
+      "id": "chrysler-300-2024-limited",
+      "manufacturer": "Chrysler",
+      "model": "300",
+      "year": 2024,
+      "trim": "Limited",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-300-2024-limited.json"
+    },
+    {
+      "id": "chrysler-pacifica-2022-limited",
+      "manufacturer": "Chrysler",
+      "model": "Pacifica",
+      "year": 2022,
+      "trim": "Limited",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-pacifica-2022-limited.json"
+    },
+    {
+      "id": "chrysler-pacifica-2023-limited",
+      "manufacturer": "Chrysler",
+      "model": "Pacifica",
+      "year": 2023,
+      "trim": "Limited",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-pacifica-2023-limited.json"
+    },
+    {
+      "id": "chrysler-pacifica-2023-base",
+      "manufacturer": "Chrysler",
+      "model": "Pacifica",
+      "year": 2023,
+      "trim": "Base",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-pacifica-2023-base.json"
+    },
+    {
+      "id": "chrysler-pacifica-2024-premium",
+      "manufacturer": "Chrysler",
+      "model": "Pacifica",
+      "year": 2024,
+      "trim": "Premium",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-pacifica-2024-premium.json"
+    },
+    {
+      "id": "chrysler-pacifica-2022-xle",
+      "manufacturer": "Chrysler",
+      "model": "Pacifica",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-pacifica-2022-xle.json"
+    },
+    {
+      "id": "chrysler-pacifica-2022-premium",
+      "manufacturer": "Chrysler",
+      "model": "Pacifica",
+      "year": 2022,
+      "trim": "Premium",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-pacifica-2022-premium.json"
+    },
+    {
+      "id": "chrysler-voyager-2024-sport",
+      "manufacturer": "Chrysler",
+      "model": "Voyager",
+      "year": 2024,
+      "trim": "Sport",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-voyager-2024-sport.json"
+    },
+    {
+      "id": "chrysler-voyager-2025-le",
+      "manufacturer": "Chrysler",
+      "model": "Voyager",
+      "year": 2025,
+      "trim": "LE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-voyager-2025-le.json"
+    },
+    {
+      "id": "chrysler-voyager-2025-base",
+      "manufacturer": "Chrysler",
+      "model": "Voyager",
+      "year": 2025,
+      "trim": "Base",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-voyager-2025-base.json"
+    },
+    {
+      "id": "chrysler-voyager-2022-sport",
+      "manufacturer": "Chrysler",
+      "model": "Voyager",
+      "year": 2022,
+      "trim": "Sport",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-voyager-2022-sport.json"
+    },
+    {
+      "id": "chrysler-voyager-2022-base",
+      "manufacturer": "Chrysler",
+      "model": "Voyager",
+      "year": 2022,
+      "trim": "Base",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "chrysler/chrysler-voyager-2022-base.json"
+    },
+    {
+      "id": "dodge-challenger-2025-le",
+      "manufacturer": "Dodge",
+      "model": "Challenger",
+      "year": 2025,
+      "trim": "LE",
+      "overallRating": 4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "dodge/dodge-challenger-2025-le.json"
+    },
+    {
+      "id": "dodge-challenger-2022-base",
+      "manufacturer": "Dodge",
+      "model": "Challenger",
+      "year": 2022,
+      "trim": "Base",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "dodge/dodge-challenger-2022-base.json"
+    },
+    {
+      "id": "dodge-challenger-2023-se",
+      "manufacturer": "Dodge",
+      "model": "Challenger",
+      "year": 2023,
+      "trim": "SE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "dodge/dodge-challenger-2023-se.json"
+    },
+    {
+      "id": "dodge-challenger-2022-platinum",
+      "manufacturer": "Dodge",
+      "model": "Challenger",
+      "year": 2022,
+      "trim": "Platinum",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "dodge/dodge-challenger-2022-platinum.json"
+    },
+    {
+      "id": "dodge-charger-2025-se",
+      "manufacturer": "Dodge",
+      "model": "Charger",
+      "year": 2025,
+      "trim": "SE",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "dodge/dodge-charger-2025-se.json"
+    },
+    {
+      "id": "dodge-durango-2025-se",
+      "manufacturer": "Dodge",
+      "model": "Durango",
+      "year": 2025,
+      "trim": "SE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "dodge/dodge-durango-2025-se.json"
+    },
+    {
+      "id": "dodge-durango-2023-platinum",
+      "manufacturer": "Dodge",
+      "model": "Durango",
+      "year": 2023,
+      "trim": "Platinum",
+      "overallRating": 4.9,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "dodge/dodge-durango-2023-platinum.json"
+    },
+    {
+      "id": "dodge-durango-2022-xle",
+      "manufacturer": "Dodge",
+      "model": "Durango",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "dodge/dodge-durango-2022-xle.json"
+    },
+    {
+      "id": "dodge-durango-2024-luxury",
+      "manufacturer": "Dodge",
+      "model": "Durango",
+      "year": 2024,
+      "trim": "Luxury",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "dodge/dodge-durango-2024-luxury.json"
+    },
+    {
+      "id": "ford-edge-2022-xle",
+      "manufacturer": "Ford",
+      "model": "Edge",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ford/ford-edge-2022-xle.json"
+    },
+    {
+      "id": "ford-edge-2022-luxury",
+      "manufacturer": "Ford",
+      "model": "Edge",
+      "year": 2022,
+      "trim": "Luxury",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ford/ford-edge-2022-luxury.json"
+    },
+    {
+      "id": "ford-escape-2022-luxury",
+      "manufacturer": "Ford",
+      "model": "Escape",
+      "year": 2022,
+      "trim": "Luxury",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ford/ford-escape-2022-luxury.json"
+    },
+    {
+      "id": "ford-expedition-2024-se",
+      "manufacturer": "Ford",
+      "model": "Expedition",
+      "year": 2024,
+      "trim": "SE",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ford/ford-expedition-2024-se.json"
+    },
+    {
+      "id": "ford-expedition-2025-le",
+      "manufacturer": "Ford",
+      "model": "Expedition",
+      "year": 2025,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ford/ford-expedition-2025-le.json"
+    },
+    {
+      "id": "ford-f-150-2025-le",
+      "manufacturer": "Ford",
+      "model": "F-150",
+      "year": 2025,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ford/ford-f-150-2025-le.json"
+    },
+    {
+      "id": "ford-f-150-2025-luxury",
+      "manufacturer": "Ford",
+      "model": "F-150",
+      "year": 2025,
+      "trim": "Luxury",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ford/ford-f-150-2025-luxury.json"
+    },
+    {
+      "id": "ford-fusion-2023-limited",
+      "manufacturer": "Ford",
+      "model": "Fusion",
+      "year": 2023,
+      "trim": "Limited",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ford/ford-fusion-2023-limited.json"
+    },
+    {
+      "id": "genesis-electrified-gv70-2024-luxury",
+      "manufacturer": "Genesis",
+      "model": "Electrified GV70",
+      "year": 2024,
+      "trim": "Luxury",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "genesis/genesis-electrified-gv70-2024-luxury.json"
+    },
+    {
+      "id": "genesis-g70-2023-platinum",
+      "manufacturer": "Genesis",
+      "model": "G70",
+      "year": 2023,
+      "trim": "Platinum",
+      "overallRating": 4.9,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "genesis/genesis-g70-2023-platinum.json"
+    },
+    {
+      "id": "genesis-g70-2022-platinum",
+      "manufacturer": "Genesis",
+      "model": "G70",
+      "year": 2022,
+      "trim": "Platinum",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "genesis/genesis-g70-2022-platinum.json"
+    },
+    {
+      "id": "genesis-g90-2023-se",
+      "manufacturer": "Genesis",
+      "model": "G90",
+      "year": 2023,
+      "trim": "SE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "genesis/genesis-g90-2023-se.json"
+    },
+    {
+      "id": "genesis-gv70-2024-se",
+      "manufacturer": "Genesis",
+      "model": "GV70",
+      "year": 2024,
+      "trim": "SE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "genesis/genesis-gv70-2024-se.json"
+    },
+    {
+      "id": "genesis-gv70-2022-premium",
+      "manufacturer": "Genesis",
+      "model": "GV70",
+      "year": 2022,
+      "trim": "Premium",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "genesis/genesis-gv70-2022-premium.json"
+    },
+    {
+      "id": "gmc-acadia-2024-base",
+      "manufacturer": "GMC",
+      "model": "Acadia",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "gmc/gmc-acadia-2024-base.json"
+    },
+    {
+      "id": "gmc-acadia-2023-le",
+      "manufacturer": "GMC",
+      "model": "Acadia",
+      "year": 2023,
+      "trim": "LE",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "gmc/gmc-acadia-2023-le.json"
+    },
+    {
+      "id": "gmc-sierra-2025-se",
+      "manufacturer": "GMC",
+      "model": "Sierra",
+      "year": 2025,
+      "trim": "SE",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "gmc/gmc-sierra-2025-se.json"
+    },
+    {
+      "id": "gmc-terrain-2022-le",
+      "manufacturer": "GMC",
+      "model": "Terrain",
+      "year": 2022,
+      "trim": "LE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "gmc/gmc-terrain-2022-le.json"
+    },
+    {
+      "id": "gmc-yukon-xl-2025-luxury",
+      "manufacturer": "GMC",
+      "model": "Yukon XL",
+      "year": 2025,
+      "trim": "Luxury",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "gmc/gmc-yukon-xl-2025-luxury.json"
+    },
+    {
+      "id": "gmc-yukon-xl-2025-se",
+      "manufacturer": "GMC",
+      "model": "Yukon XL",
+      "year": 2025,
+      "trim": "SE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "gmc/gmc-yukon-xl-2025-se.json"
+    },
+    {
+      "id": "gmc-yukon-xl-2023-base",
+      "manufacturer": "GMC",
+      "model": "Yukon XL",
+      "year": 2023,
+      "trim": "Base",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "gmc/gmc-yukon-xl-2023-base.json"
+    },
+    {
+      "id": "honda-accord-2023-le",
+      "manufacturer": "Honda",
+      "model": "Accord",
+      "year": 2023,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "honda/honda-accord-2023-le.json"
+    },
+    {
+      "id": "honda-civic-2025-luxury",
+      "manufacturer": "Honda",
+      "model": "Civic",
+      "year": 2025,
+      "trim": "Luxury",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "honda/honda-civic-2025-luxury.json"
+    },
+    {
+      "id": "honda-civic-2024-se",
+      "manufacturer": "Honda",
+      "model": "Civic",
+      "year": 2024,
+      "trim": "SE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "honda/honda-civic-2024-se.json"
+    },
+    {
+      "id": "honda-passport-2024-base",
+      "manufacturer": "Honda",
+      "model": "Passport",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "honda/honda-passport-2024-base.json"
+    },
+    {
+      "id": "honda-pilot-2022-le",
+      "manufacturer": "Honda",
+      "model": "Pilot",
+      "year": 2022,
+      "trim": "LE",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "honda/honda-pilot-2022-le.json"
+    },
+    {
+      "id": "honda-pilot-2025-premium",
+      "manufacturer": "Honda",
+      "model": "Pilot",
+      "year": 2025,
+      "trim": "Premium",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "honda/honda-pilot-2025-premium.json"
+    },
+    {
+      "id": "honda-pilot-2022-xle",
+      "manufacturer": "Honda",
+      "model": "Pilot",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "honda/honda-pilot-2022-xle.json"
+    },
+    {
+      "id": "hyundai-elantra-2025-limited",
+      "manufacturer": "Hyundai",
+      "model": "Elantra",
+      "year": 2025,
+      "trim": "Limited",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "hyundai/hyundai-elantra-2025-limited.json"
+    },
+    {
+      "id": "hyundai-elantra-2022-premium",
+      "manufacturer": "Hyundai",
+      "model": "Elantra",
+      "year": 2022,
+      "trim": "Premium",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "hyundai/hyundai-elantra-2022-premium.json"
+    },
+    {
+      "id": "hyundai-kona-2024-le",
+      "manufacturer": "Hyundai",
+      "model": "Kona",
+      "year": 2024,
+      "trim": "LE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "hyundai/hyundai-kona-2024-le.json"
+    },
+    {
+      "id": "hyundai-palisade-2025-platinum",
+      "manufacturer": "Hyundai",
+      "model": "Palisade",
+      "year": 2025,
+      "trim": "Platinum",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "hyundai/hyundai-palisade-2025-platinum.json"
+    },
+    {
+      "id": "hyundai-sonata-2024-base",
+      "manufacturer": "Hyundai",
+      "model": "Sonata",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "hyundai/hyundai-sonata-2024-base.json"
+    },
+    {
+      "id": "hyundai-sonata-2025-xle",
+      "manufacturer": "Hyundai",
+      "model": "Sonata",
+      "year": 2025,
+      "trim": "XLE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "hyundai/hyundai-sonata-2025-xle.json"
+    },
+    {
+      "id": "hyundai-tucson-2023-premium",
+      "manufacturer": "Hyundai",
+      "model": "Tucson",
+      "year": 2023,
+      "trim": "Premium",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "hyundai/hyundai-tucson-2023-premium.json"
+    },
+    {
+      "id": "hyundai-venue-2022-platinum",
+      "manufacturer": "Hyundai",
+      "model": "Venue",
+      "year": 2022,
+      "trim": "Platinum",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "hyundai/hyundai-venue-2022-platinum.json"
+    },
+    {
+      "id": "hyundai-venue-2022-base",
+      "manufacturer": "Hyundai",
+      "model": "Venue",
+      "year": 2022,
+      "trim": "Base",
+      "overallRating": 4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "hyundai/hyundai-venue-2022-base.json"
+    },
+    {
+      "id": "infiniti-qx50-2023-sport",
+      "manufacturer": "Infiniti",
+      "model": "QX50",
+      "year": 2023,
+      "trim": "Sport",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "infiniti/infiniti-qx50-2023-sport.json"
+    },
+    {
+      "id": "infiniti-qx50-2022-se",
+      "manufacturer": "Infiniti",
+      "model": "QX50",
+      "year": 2022,
+      "trim": "SE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "infiniti/infiniti-qx50-2022-se.json"
+    },
+    {
+      "id": "infiniti-qx50-2022-xle",
+      "manufacturer": "Infiniti",
+      "model": "QX50",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "infiniti/infiniti-qx50-2022-xle.json"
+    },
+    {
+      "id": "infiniti-qx55-2023-xle",
+      "manufacturer": "Infiniti",
+      "model": "QX55",
+      "year": 2023,
+      "trim": "XLE",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "infiniti/infiniti-qx55-2023-xle.json"
+    },
+    {
+      "id": "infiniti-qx55-2023-premium",
+      "manufacturer": "Infiniti",
+      "model": "QX55",
+      "year": 2023,
+      "trim": "Premium",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "infiniti/infiniti-qx55-2023-premium.json"
+    },
+    {
+      "id": "infiniti-qx80-2024-limited",
+      "manufacturer": "Infiniti",
+      "model": "QX80",
+      "year": 2024,
+      "trim": "Limited",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "infiniti/infiniti-qx80-2024-limited.json"
+    },
+    {
+      "id": "jeep-cherokee-2024-luxury",
+      "manufacturer": "Jeep",
+      "model": "Cherokee",
+      "year": 2024,
+      "trim": "Luxury",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "jeep/jeep-cherokee-2024-luxury.json"
+    },
+    {
+      "id": "jeep-gladiator-2022-xle",
+      "manufacturer": "Jeep",
+      "model": "Gladiator",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "jeep/jeep-gladiator-2022-xle.json"
+    },
+    {
+      "id": "jeep-renegade-2022-premium",
+      "manufacturer": "Jeep",
+      "model": "Renegade",
+      "year": 2022,
+      "trim": "Premium",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "jeep/jeep-renegade-2022-premium.json"
+    },
+    {
+      "id": "jeep-renegade-2024-base",
+      "manufacturer": "Jeep",
+      "model": "Renegade",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "jeep/jeep-renegade-2024-base.json"
+    },
+    {
+      "id": "jeep-wrangler-2024-base",
+      "manufacturer": "Jeep",
+      "model": "Wrangler",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "jeep/jeep-wrangler-2024-base.json"
+    },
+    {
+      "id": "kia-k5-2022-se",
+      "manufacturer": "Kia",
+      "model": "K5",
+      "year": 2022,
+      "trim": "SE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "kia/kia-k5-2022-se.json"
+    },
+    {
+      "id": "kia-sorento-2024-xle",
+      "manufacturer": "Kia",
+      "model": "Sorento",
+      "year": 2024,
+      "trim": "XLE",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "kia/kia-sorento-2024-xle.json"
+    },
+    {
+      "id": "kia-sorento-2024-base",
+      "manufacturer": "Kia",
+      "model": "Sorento",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "kia/kia-sorento-2024-base.json"
+    },
+    {
+      "id": "kia-sorento-2022-se",
+      "manufacturer": "Kia",
+      "model": "Sorento",
+      "year": 2022,
+      "trim": "SE",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "kia/kia-sorento-2022-se.json"
+    },
+    {
+      "id": "kia-sportage-2024-se",
+      "manufacturer": "Kia",
+      "model": "Sportage",
+      "year": 2024,
+      "trim": "SE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "kia/kia-sportage-2024-se.json"
+    },
+    {
+      "id": "kia-telluride-2022-platinum",
+      "manufacturer": "Kia",
+      "model": "Telluride",
+      "year": 2022,
+      "trim": "Platinum",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "kia/kia-telluride-2022-platinum.json"
+    },
+    {
+      "id": "lexus-gx-2024-xle",
+      "manufacturer": "Lexus",
+      "model": "GX",
+      "year": 2024,
+      "trim": "XLE",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "lexus/lexus-gx-2024-xle.json"
+    },
+    {
+      "id": "lincoln-aviator-2023-premium",
+      "manufacturer": "Lincoln",
+      "model": "Aviator",
+      "year": 2023,
+      "trim": "Premium",
+      "overallRating": 4.9,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "lincoln/lincoln-aviator-2023-premium.json"
+    },
+    {
+      "id": "lincoln-aviator-2023-le",
+      "manufacturer": "Lincoln",
+      "model": "Aviator",
+      "year": 2023,
+      "trim": "LE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "lincoln/lincoln-aviator-2023-le.json"
+    },
+    {
+      "id": "lincoln-aviator-2024-sport",
+      "manufacturer": "Lincoln",
+      "model": "Aviator",
+      "year": 2024,
+      "trim": "Sport",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "lincoln/lincoln-aviator-2024-sport.json"
+    },
+    {
+      "id": "lincoln-aviator-2022-le",
+      "manufacturer": "Lincoln",
+      "model": "Aviator",
+      "year": 2022,
+      "trim": "LE",
+      "overallRating": 4.1,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "lincoln/lincoln-aviator-2022-le.json"
+    },
+    {
+      "id": "lincoln-continental-2024-sport",
+      "manufacturer": "Lincoln",
+      "model": "Continental",
+      "year": 2024,
+      "trim": "Sport",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "lincoln/lincoln-continental-2024-sport.json"
+    },
+    {
+      "id": "lincoln-nautilus-2023-le",
+      "manufacturer": "Lincoln",
+      "model": "Nautilus",
+      "year": 2023,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "lincoln/lincoln-nautilus-2023-le.json"
+    },
+    {
+      "id": "mazda-cx-30-2023-xle",
+      "manufacturer": "Mazda",
+      "model": "CX-30",
+      "year": 2023,
+      "trim": "XLE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mazda/mazda-cx-30-2023-xle.json"
+    },
+    {
+      "id": "mazda-cx-30-2024-premium",
+      "manufacturer": "Mazda",
+      "model": "CX-30",
+      "year": 2024,
+      "trim": "Premium",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mazda/mazda-cx-30-2024-premium.json"
+    },
+    {
+      "id": "mazda-cx-30-2023-base",
+      "manufacturer": "Mazda",
+      "model": "CX-30",
+      "year": 2023,
+      "trim": "Base",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mazda/mazda-cx-30-2023-base.json"
+    },
+    {
+      "id": "mazda-cx-5-2022-xle",
+      "manufacturer": "Mazda",
+      "model": "CX-5",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mazda/mazda-cx-5-2022-xle.json"
+    },
+    {
+      "id": "mazda-cx-9-2022-sport",
+      "manufacturer": "Mazda",
+      "model": "CX-9",
+      "year": 2022,
+      "trim": "Sport",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mazda/mazda-cx-9-2022-sport.json"
+    },
+    {
+      "id": "mazda-cx-9-2023-se",
+      "manufacturer": "Mazda",
+      "model": "CX-9",
+      "year": 2023,
+      "trim": "SE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mazda/mazda-cx-9-2023-se.json"
+    },
+    {
+      "id": "mazda-cx-9-2024-se",
+      "manufacturer": "Mazda",
+      "model": "CX-9",
+      "year": 2024,
+      "trim": "SE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mazda/mazda-cx-9-2024-se.json"
+    },
+    {
+      "id": "mazda-mazda6-2024-se",
+      "manufacturer": "Mazda",
+      "model": "Mazda6",
+      "year": 2024,
+      "trim": "SE",
+      "overallRating": 4.1,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mazda/mazda-mazda6-2024-se.json"
+    },
+    {
+      "id": "mazda-mx-5-2023-base",
+      "manufacturer": "Mazda",
+      "model": "MX-5",
+      "year": 2023,
+      "trim": "Base",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mazda/mazda-mx-5-2023-base.json"
+    },
+    {
+      "id": "mercedes-benz-e-class-2022-xle",
+      "manufacturer": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2022,
+      "trim": "XLE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mercedes-benz/mercedes-benz-e-class-2022-xle.json"
+    },
+    {
+      "id": "mercedes-benz-eqe-2024-base",
+      "manufacturer": "Mercedes-Benz",
+      "model": "EQE",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mercedes-benz/mercedes-benz-eqe-2024-base.json"
+    },
+    {
+      "id": "mercedes-benz-glc-2025-limited",
+      "manufacturer": "Mercedes-Benz",
+      "model": "GLC",
+      "year": 2025,
+      "trim": "Limited",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mercedes-benz/mercedes-benz-glc-2025-limited.json"
+    },
+    {
+      "id": "mercedes-benz-gle-2022-platinum",
+      "manufacturer": "Mercedes-Benz",
+      "model": "GLE",
+      "year": 2022,
+      "trim": "Platinum",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mercedes-benz/mercedes-benz-gle-2022-platinum.json"
+    },
+    {
+      "id": "mercedes-benz-s-class-2023-sport",
+      "manufacturer": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": 2023,
+      "trim": "Sport",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mercedes-benz/mercedes-benz-s-class-2023-sport.json"
+    },
+    {
+      "id": "mercedes-benz-s-class-2025-sport",
+      "manufacturer": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": 2025,
+      "trim": "Sport",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mercedes-benz/mercedes-benz-s-class-2025-sport.json"
+    },
+    {
+      "id": "mitsubishi-eclipse-cross-2024-le",
+      "manufacturer": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "year": 2024,
+      "trim": "LE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mitsubishi/mitsubishi-eclipse-cross-2024-le.json"
+    },
+    {
+      "id": "mitsubishi-eclipse-cross-2024-limited",
+      "manufacturer": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "year": 2024,
+      "trim": "Limited",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mitsubishi/mitsubishi-eclipse-cross-2024-limited.json"
+    },
+    {
+      "id": "mitsubishi-mirage-2023-platinum",
+      "manufacturer": "Mitsubishi",
+      "model": "Mirage",
+      "year": 2023,
+      "trim": "Platinum",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mitsubishi/mitsubishi-mirage-2023-platinum.json"
+    },
+    {
+      "id": "mitsubishi-outlander-2024-se",
+      "manufacturer": "Mitsubishi",
+      "model": "Outlander",
+      "year": 2024,
+      "trim": "SE",
+      "overallRating": 4.9,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mitsubishi/mitsubishi-outlander-2024-se.json"
+    },
+    {
+      "id": "mitsubishi-outlander-2024-base",
+      "manufacturer": "Mitsubishi",
+      "model": "Outlander",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mitsubishi/mitsubishi-outlander-2024-base.json"
+    },
+    {
+      "id": "mitsubishi-outlander-phev-2024-limited",
+      "manufacturer": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "year": 2024,
+      "trim": "Limited",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "mitsubishi/mitsubishi-outlander-phev-2024-limited.json"
+    },
+    {
+      "id": "nissan-altima-2022-le",
+      "manufacturer": "Nissan",
+      "model": "Altima",
+      "year": 2022,
+      "trim": "LE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "nissan/nissan-altima-2022-le.json"
+    },
+    {
+      "id": "nissan-armada-2023-premium",
+      "manufacturer": "Nissan",
+      "model": "Armada",
+      "year": 2023,
+      "trim": "Premium",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "nissan/nissan-armada-2023-premium.json"
+    },
+    {
+      "id": "nissan-kicks-2024-premium",
+      "manufacturer": "Nissan",
+      "model": "Kicks",
+      "year": 2024,
+      "trim": "Premium",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "nissan/nissan-kicks-2024-premium.json"
+    },
+    {
+      "id": "nissan-murano-2023-limited",
+      "manufacturer": "Nissan",
+      "model": "Murano",
+      "year": 2023,
+      "trim": "Limited",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "nissan/nissan-murano-2023-limited.json"
+    },
+    {
+      "id": "nissan-pathfinder-2023-xle",
+      "manufacturer": "Nissan",
+      "model": "Pathfinder",
+      "year": 2023,
+      "trim": "XLE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "nissan/nissan-pathfinder-2023-xle.json"
+    },
+    {
+      "id": "polestar-polestar-2-2022-se",
+      "manufacturer": "Polestar",
+      "model": "Polestar 2",
+      "year": 2022,
+      "trim": "SE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "polestar/polestar-polestar-2-2022-se.json"
+    },
+    {
+      "id": "polestar-polestar-2-2023-sport",
+      "manufacturer": "Polestar",
+      "model": "Polestar 2",
+      "year": 2023,
+      "trim": "Sport",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "polestar/polestar-polestar-2-2023-sport.json"
+    },
+    {
+      "id": "polestar-polestar-2-2025-le",
+      "manufacturer": "Polestar",
+      "model": "Polestar 2",
+      "year": 2025,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "polestar/polestar-polestar-2-2025-le.json"
+    },
+    {
+      "id": "polestar-polestar-3-2023-limited",
+      "manufacturer": "Polestar",
+      "model": "Polestar 3",
+      "year": 2023,
+      "trim": "Limited",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "polestar/polestar-polestar-3-2023-limited.json"
+    },
+    {
+      "id": "polestar-polestar-3-2025-premium",
+      "manufacturer": "Polestar",
+      "model": "Polestar 3",
+      "year": 2025,
+      "trim": "Premium",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "polestar/polestar-polestar-3-2025-premium.json"
+    },
+    {
+      "id": "polestar-polestar-3-2024-platinum",
+      "manufacturer": "Polestar",
+      "model": "Polestar 3",
+      "year": 2024,
+      "trim": "Platinum",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "polestar/polestar-polestar-3-2024-platinum.json"
+    },
+    {
+      "id": "polestar-polestar-3-2024-xle",
+      "manufacturer": "Polestar",
+      "model": "Polestar 3",
+      "year": 2024,
+      "trim": "XLE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "polestar/polestar-polestar-3-2024-xle.json"
+    },
+    {
+      "id": "polestar-polestar-4-2022-sport",
+      "manufacturer": "Polestar",
+      "model": "Polestar 4",
+      "year": 2022,
+      "trim": "Sport",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "polestar/polestar-polestar-4-2022-sport.json"
+    },
+    {
+      "id": "ram-1500-2023-sport",
+      "manufacturer": "RAM",
+      "model": "1500",
+      "year": 2023,
+      "trim": "Sport",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ram/ram-1500-2023-sport.json"
+    },
+    {
+      "id": "ram-3500-2023-base",
+      "manufacturer": "RAM",
+      "model": "3500",
+      "year": 2023,
+      "trim": "Base",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ram/ram-3500-2023-base.json"
+    },
+    {
+      "id": "ram-promaster-2023-platinum",
+      "manufacturer": "RAM",
+      "model": "ProMaster",
+      "year": 2023,
+      "trim": "Platinum",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ram/ram-promaster-2023-platinum.json"
+    },
+    {
+      "id": "ram-promaster-city-2022-limited",
+      "manufacturer": "RAM",
+      "model": "ProMaster City",
+      "year": 2022,
+      "trim": "Limited",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ram/ram-promaster-city-2022-limited.json"
+    },
+    {
+      "id": "ram-promaster-city-2025-xle",
+      "manufacturer": "RAM",
+      "model": "ProMaster City",
+      "year": 2025,
+      "trim": "XLE",
+      "overallRating": 4.9,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ram/ram-promaster-city-2025-xle.json"
+    },
+    {
+      "id": "ram-promaster-city-2025-base",
+      "manufacturer": "RAM",
+      "model": "ProMaster City",
+      "year": 2025,
+      "trim": "Base",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "ram/ram-promaster-city-2025-base.json"
+    },
+    {
+      "id": "subaru-ascent-2023-platinum",
+      "manufacturer": "Subaru",
+      "model": "Ascent",
+      "year": 2023,
+      "trim": "Platinum",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "subaru/subaru-ascent-2023-platinum.json"
+    },
+    {
+      "id": "subaru-ascent-2025-le",
+      "manufacturer": "Subaru",
+      "model": "Ascent",
+      "year": 2025,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "subaru/subaru-ascent-2025-le.json"
+    },
+    {
+      "id": "subaru-crosstrek-2023-luxury",
+      "manufacturer": "Subaru",
+      "model": "Crosstrek",
+      "year": 2023,
+      "trim": "Luxury",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "subaru/subaru-crosstrek-2023-luxury.json"
+    },
+    {
+      "id": "subaru-forester-2024-base",
+      "manufacturer": "Subaru",
+      "model": "Forester",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "subaru/subaru-forester-2024-base.json"
+    },
+    {
+      "id": "subaru-legacy-2022-base",
+      "manufacturer": "Subaru",
+      "model": "Legacy",
+      "year": 2022,
+      "trim": "Base",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "subaru/subaru-legacy-2022-base.json"
+    },
+    {
+      "id": "subaru-legacy-2023-sport",
+      "manufacturer": "Subaru",
+      "model": "Legacy",
+      "year": 2023,
+      "trim": "Sport",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "subaru/subaru-legacy-2023-sport.json"
+    },
+    {
+      "id": "subaru-legacy-2025-platinum",
+      "manufacturer": "Subaru",
+      "model": "Legacy",
+      "year": 2025,
+      "trim": "Platinum",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "subaru/subaru-legacy-2025-platinum.json"
+    },
+    {
+      "id": "subaru-wrx-2025-limited",
+      "manufacturer": "Subaru",
+      "model": "WRX",
+      "year": 2025,
+      "trim": "Limited",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "subaru/subaru-wrx-2025-limited.json"
+    },
+    {
+      "id": "tesla-model-3-2022-le",
+      "manufacturer": "Tesla",
+      "model": "Model 3",
+      "year": 2022,
+      "trim": "LE",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-3-2022-le.json"
+    },
+    {
+      "id": "tesla-model-3-2025-luxury",
+      "manufacturer": "Tesla",
+      "model": "Model 3",
+      "year": 2025,
+      "trim": "Luxury",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-3-2025-luxury.json"
+    },
+    {
+      "id": "tesla-model-s-2022-luxury",
+      "manufacturer": "Tesla",
+      "model": "Model S",
+      "year": 2022,
+      "trim": "Luxury",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-s-2022-luxury.json"
+    },
+    {
+      "id": "tesla-model-s-2025-limited",
+      "manufacturer": "Tesla",
+      "model": "Model S",
+      "year": 2025,
+      "trim": "Limited",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-s-2025-limited.json"
+    },
+    {
+      "id": "tesla-model-s-2025-luxury",
+      "manufacturer": "Tesla",
+      "model": "Model S",
+      "year": 2025,
+      "trim": "Luxury",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-s-2025-luxury.json"
+    },
+    {
+      "id": "tesla-model-s-2022-premium",
+      "manufacturer": "Tesla",
+      "model": "Model S",
+      "year": 2022,
+      "trim": "Premium",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-s-2022-premium.json"
+    },
+    {
+      "id": "tesla-model-x-2022-sport",
+      "manufacturer": "Tesla",
+      "model": "Model X",
+      "year": 2022,
+      "trim": "Sport",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-x-2022-sport.json"
+    },
+    {
+      "id": "tesla-model-x-2025-limited",
+      "manufacturer": "Tesla",
+      "model": "Model X",
+      "year": 2025,
+      "trim": "Limited",
+      "overallRating": 5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-x-2025-limited.json"
+    },
+    {
+      "id": "tesla-model-y-2022-platinum",
+      "manufacturer": "Tesla",
+      "model": "Model Y",
+      "year": 2022,
+      "trim": "Platinum",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-y-2022-platinum.json"
+    },
+    {
+      "id": "tesla-model-y-2022-base",
+      "manufacturer": "Tesla",
+      "model": "Model Y",
+      "year": 2022,
+      "trim": "Base",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-y-2022-base.json"
+    },
+    {
+      "id": "tesla-model-y-2022-le",
+      "manufacturer": "Tesla",
+      "model": "Model Y",
+      "year": 2022,
+      "trim": "LE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-y-2022-le.json"
+    },
+    {
+      "id": "tesla-model-y-2024-platinum",
+      "manufacturer": "Tesla",
+      "model": "Model Y",
+      "year": 2024,
+      "trim": "Platinum",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-y-2024-platinum.json"
+    },
+    {
+      "id": "tesla-model-y-2025-sport",
+      "manufacturer": "Tesla",
+      "model": "Model Y",
+      "year": 2025,
+      "trim": "Sport",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "tesla/tesla-model-y-2025-sport.json"
+    },
+    {
+      "id": "toyota-4runner-2025-platinum",
+      "manufacturer": "Toyota",
+      "model": "4Runner",
+      "year": 2025,
+      "trim": "Platinum",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-4runner-2025-platinum.json"
+    },
+    {
+      "id": "toyota-4runner-2024-platinum",
+      "manufacturer": "Toyota",
+      "model": "4Runner",
+      "year": 2024,
+      "trim": "Platinum",
+      "overallRating": 4.9,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-4runner-2024-platinum.json"
+    },
+    {
+      "id": "toyota-avalon-2024-base",
+      "manufacturer": "Toyota",
+      "model": "Avalon",
+      "year": 2024,
+      "trim": "Base",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-avalon-2024-base.json"
+    },
+    {
+      "id": "toyota-camry-2025-platinum",
+      "manufacturer": "Toyota",
+      "model": "Camry",
+      "year": 2025,
+      "trim": "Platinum",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-camry-2025-platinum.json"
+    },
+    {
+      "id": "toyota-camry-2022-luxury",
+      "manufacturer": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "trim": "Luxury",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-camry-2022-luxury.json"
+    },
+    {
+      "id": "toyota-camry-2022-sport",
+      "manufacturer": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "trim": "Sport",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-camry-2022-sport.json"
+    },
+    {
+      "id": "toyota-camry-2025-limited",
+      "manufacturer": "Toyota",
+      "model": "Camry",
+      "year": 2025,
+      "trim": "Limited",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-camry-2025-limited.json"
+    },
+    {
+      "id": "toyota-corolla-2022-luxury",
+      "manufacturer": "Toyota",
+      "model": "Corolla",
+      "year": 2022,
+      "trim": "Luxury",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-corolla-2022-luxury.json"
+    },
+    {
+      "id": "toyota-corolla-2023-platinum",
+      "manufacturer": "Toyota",
+      "model": "Corolla",
+      "year": 2023,
+      "trim": "Platinum",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-corolla-2023-platinum.json"
+    },
+    {
+      "id": "toyota-highlander-2025-limited",
+      "manufacturer": "Toyota",
+      "model": "Highlander",
+      "year": 2025,
+      "trim": "Limited",
+      "overallRating": 4.1,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-highlander-2025-limited.json"
+    },
+    {
+      "id": "toyota-highlander-2022-base",
+      "manufacturer": "Toyota",
+      "model": "Highlander",
+      "year": 2022,
+      "trim": "Base",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-highlander-2022-base.json"
+    },
+    {
+      "id": "toyota-highlander-2022-le",
+      "manufacturer": "Toyota",
+      "model": "Highlander",
+      "year": 2022,
+      "trim": "LE",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "toyota/toyota-highlander-2022-le.json"
+    },
+    {
+      "id": "volkswagen-atlas-2025-base",
+      "manufacturer": "Volkswagen",
+      "model": "Atlas",
+      "year": 2025,
+      "trim": "Base",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volkswagen/volkswagen-atlas-2025-base.json"
+    },
+    {
+      "id": "volkswagen-id4-2025-sport",
+      "manufacturer": "Volkswagen",
+      "model": "ID.4",
+      "year": 2025,
+      "trim": "Sport",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volkswagen/volkswagen-id4-2025-sport.json"
+    },
+    {
+      "id": "volkswagen-passat-2022-limited",
+      "manufacturer": "Volkswagen",
+      "model": "Passat",
+      "year": 2022,
+      "trim": "Limited",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volkswagen/volkswagen-passat-2022-limited.json"
+    },
+    {
+      "id": "volkswagen-passat-2023-se",
+      "manufacturer": "Volkswagen",
+      "model": "Passat",
+      "year": 2023,
+      "trim": "SE",
+      "overallRating": 4.6,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volkswagen/volkswagen-passat-2023-se.json"
+    },
+    {
+      "id": "volkswagen-tiguan-2022-platinum",
+      "manufacturer": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2022,
+      "trim": "Platinum",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volkswagen/volkswagen-tiguan-2022-platinum.json"
+    },
+    {
+      "id": "volvo-c40-2025-base",
+      "manufacturer": "Volvo",
+      "model": "C40",
+      "year": 2025,
+      "trim": "Base",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volvo/volvo-c40-2025-base.json"
+    },
+    {
+      "id": "volvo-c40-2024-sport",
+      "manufacturer": "Volvo",
+      "model": "C40",
+      "year": 2024,
+      "trim": "Sport",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volvo/volvo-c40-2024-sport.json"
+    },
+    {
+      "id": "volvo-c40-2025-limited",
+      "manufacturer": "Volvo",
+      "model": "C40",
+      "year": 2025,
+      "trim": "Limited",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volvo/volvo-c40-2025-limited.json"
+    },
+    {
+      "id": "volvo-s60-2025-platinum",
+      "manufacturer": "Volvo",
+      "model": "S60",
+      "year": 2025,
+      "trim": "Platinum",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volvo/volvo-s60-2025-platinum.json"
+    },
+    {
+      "id": "volvo-xc40-2024-luxury",
+      "manufacturer": "Volvo",
+      "model": "XC40",
+      "year": 2024,
+      "trim": "Luxury",
+      "overallRating": 4.9,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volvo/volvo-xc40-2024-luxury.json"
+    },
+    {
+      "id": "volvo-xc60-2024-sport",
+      "manufacturer": "Volvo",
+      "model": "XC60",
+      "year": 2024,
+      "trim": "Sport",
+      "overallRating": 4.3,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volvo/volvo-xc60-2024-sport.json"
+    },
+    {
+      "id": "volvo-xc90-2024-le",
+      "manufacturer": "Volvo",
+      "model": "XC90",
+      "year": 2024,
+      "trim": "LE",
+      "overallRating": 4.5,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volvo/volvo-xc90-2024-le.json"
+    },
+    {
+      "id": "volvo-xc90-2025-xle",
+      "manufacturer": "Volvo",
+      "model": "XC90",
+      "year": 2025,
+      "trim": "XLE",
+      "overallRating": 4.8,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volvo/volvo-xc90-2025-xle.json"
+    },
+    {
+      "id": "volvo-xc90-2025-se",
+      "manufacturer": "Volvo",
+      "model": "XC90",
+      "year": 2025,
+      "trim": "SE",
+      "overallRating": 4.4,
+      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "assessmentPath": "volvo/volvo-xc90-2025-se.json"
+    }
+  ]
+}
