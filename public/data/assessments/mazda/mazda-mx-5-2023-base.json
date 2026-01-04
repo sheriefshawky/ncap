@@ -1,0 +1,126 @@
+{
+  "id": "mazda-mx-5-2023-base",
+  "manufacturer": "Mazda",
+  "model": "MX-5",
+  "year": 2023,
+  "trim": "Base",
+  "testDate": "2024-05-18",
+  "ratings": {
+    "adult": 5,
+    "child": 4.5,
+    "pedestrian": 5,
+    "safetyAssist": 4.5,
+    "overall": 4.8
+  },
+  "crashTests": [
+    {
+      "type": "pole",
+      "score": 15.1,
+      "maxScore": 16,
+      "description": "Adequate protection with minor concerns",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "side",
+      "score": 14.2,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    }
+  ],
+  "adultOccupant": {
+    "score": 37.9,
+    "maxScore": 38,
+    "details": "The vehicle demonstrated strong performance in protecting adult occupants. Protection levels were good for all critical body areas."
+  },
+  "childOccupant": {
+    "score": 43.8,
+    "maxScore": 49,
+    "details": "Child restraint systems were well accommodated. The vehicle provided good protection for child occupants of various sizes."
+  },
+  "vulnerableRoadUsers": {
+    "score": 40.7,
+    "maxScore": 42,
+    "details": "The bonnet provided good or adequate protection over most of its surface. The AEB system performed well in tests of pedestrian scenarios."
+  },
+  "safetyAssist": {
+    "score": 12.4,
+    "maxScore": 14,
+    "details": "The vehicle is equipped with an advanced AEB system that can detect pedestrians and cyclists. Lane support system works effectively."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

@@ -1,0 +1,132 @@
+{
+  "id": "volkswagen-atlas-2025-base",
+  "manufacturer": "Volkswagen",
+  "model": "Atlas",
+  "year": 2025,
+  "trim": "Base",
+  "testDate": "2024-05-23",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4.5,
+    "pedestrian": 4,
+    "safetyAssist": 5,
+    "overall": 4.5
+  },
+  "crashTests": [
+    {
+      "type": "whiplash",
+      "score": 14.1,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "side",
+      "score": 13,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "pole",
+      "score": 14,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    }
+  ],
+  "adultOccupant": {
+    "score": 33,
+    "maxScore": 38,
+    "details": "Good protection was provided to all body regions. The vehicle structure remained stable throughout the impact."
+  },
+  "childOccupant": {
+    "score": 42.9,
+    "maxScore": 49,
+    "details": "Protection for child dummies was good across all impact scenarios. ISOFIX anchors were clearly marked and accessible."
+  },
+  "vulnerableRoadUsers": {
+    "score": 35.6,
+    "maxScore": 42,
+    "details": "Pedestrian protection was good across the bonnet area. Advanced detection systems provided effective collision avoidance."
+  },
+  "safetyAssist": {
+    "score": 13.6,
+    "maxScore": 14,
+    "details": "Advanced driver assistance features are standard. All systems tested demonstrated good performance and reliability."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

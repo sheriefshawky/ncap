@@ -1,0 +1,144 @@
+{
+  "id": "polestar-polestar-2-2023-sport",
+  "manufacturer": "Polestar",
+  "model": "Polestar 2",
+  "year": 2023,
+  "trim": "Sport",
+  "testDate": "2024-06-20",
+  "ratings": {
+    "adult": 4,
+    "child": 4.5,
+    "pedestrian": 4.5,
+    "safetyAssist": 4,
+    "overall": 4.3
+  },
+  "crashTests": [
+    {
+      "type": "frontal",
+      "score": 14.6,
+      "maxScore": 16,
+      "description": "Strong performance in all impact zones",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "whiplash",
+      "score": 12.8,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "pole",
+      "score": 15.3,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Adaptive Cruise Control",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    }
+  ],
+  "adultOccupant": {
+    "score": 31.4,
+    "maxScore": 38,
+    "details": "The passenger compartment remained stable in the frontal offset test. Dummy readings indicated good protection of the knees and femurs of both the driver and passenger."
+  },
+  "childOccupant": {
+    "score": 43.1,
+    "maxScore": 49,
+    "details": "Child restraint systems were well accommodated. The vehicle provided good protection for child occupants of various sizes."
+  },
+  "vulnerableRoadUsers": {
+    "score": 37.9,
+    "maxScore": 42,
+    "details": "The vehicle demonstrated strong pedestrian protection. Active safety systems performed well in avoiding vulnerable road user impacts."
+  },
+  "safetyAssist": {
+    "score": 11.7,
+    "maxScore": 14,
+    "details": "Advanced driver assistance features are standard. All systems tested demonstrated good performance and reliability."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

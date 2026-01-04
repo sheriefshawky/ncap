@@ -1,0 +1,86 @@
+{
+  "id": "toyota-camry-2024-le",
+  "manufacturer": "Toyota",
+  "model": "Camry",
+  "year": 2024,
+  "trim": "LE",
+  "testDate": "2024-01-15",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4.0,
+    "pedestrian": 4.5,
+    "safetyAssist": 5.0,
+    "overall": 4.5
+  },
+  "crashTests": [
+    {
+      "type": "frontal",
+      "score": 15.8,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "side",
+      "score": 15.5,
+      "maxScore": 16,
+      "description": "Good protection in side impact",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    }
+  ],
+  "adultOccupant": {
+    "score": 34.5,
+    "maxScore": 38,
+    "details": "The passenger compartment remained stable in the frontal offset test. Dummy readings indicated good protection of the knees and femurs of both the driver and passenger."
+  },
+  "childOccupant": {
+    "score": 40.2,
+    "maxScore": 49,
+    "details": "In the frontal offset test, protection of all critical body areas was good for both the 6 and 10 year dummies."
+  },
+  "vulnerableRoadUsers": {
+    "score": 38.5,
+    "maxScore": 42,
+    "details": "The bonnet provided good or adequate protection over most of its surface. The AEB system performed well in tests of pedestrian scenarios."
+  },
+  "safetyAssist": {
+    "score": 13.5,
+    "maxScore": 14,
+    "details": "The vehicle is equipped with an advanced AEB system that can detect pedestrians and cyclists. Lane support system works effectively."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "https://youtube.com/...",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with strong scores across all categories."
+}

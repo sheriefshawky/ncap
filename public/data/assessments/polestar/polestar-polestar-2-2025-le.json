@@ -1,0 +1,138 @@
+{
+  "id": "polestar-polestar-2-2025-le",
+  "manufacturer": "Polestar",
+  "model": "Polestar 2",
+  "year": 2025,
+  "trim": "LE",
+  "testDate": "2024-05-01",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4.5,
+    "pedestrian": 4,
+    "safetyAssist": 5,
+    "overall": 4.5
+  },
+  "crashTests": [
+    {
+      "type": "frontal",
+      "score": 14,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "pole",
+      "score": 15.6,
+      "maxScore": 16,
+      "description": "Strong performance in all impact zones",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Adaptive Cruise Control",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    }
+  ],
+  "adultOccupant": {
+    "score": 33.4,
+    "maxScore": 38,
+    "details": "The vehicle demonstrated strong performance in protecting adult occupants. Protection levels were good for all critical body areas."
+  },
+  "childOccupant": {
+    "score": 44.7,
+    "maxScore": 49,
+    "details": "Protection for child dummies was good across all impact scenarios. ISOFIX anchors were clearly marked and accessible."
+  },
+  "vulnerableRoadUsers": {
+    "score": 35.6,
+    "maxScore": 42,
+    "details": "Pedestrian protection was good across the bonnet area. Advanced detection systems provided effective collision avoidance."
+  },
+  "safetyAssist": {
+    "score": 13.5,
+    "maxScore": 14,
+    "details": "Comprehensive suite of safety assist systems. All active safety features performed well in testing scenarios."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

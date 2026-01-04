@@ -1,0 +1,133 @@
+{
+  "id": "volvo-c40-2025-limited",
+  "manufacturer": "Volvo",
+  "model": "C40",
+  "year": 2025,
+  "trim": "Limited",
+  "testDate": "2024-04-05",
+  "ratings": {
+    "adult": 4,
+    "child": 5,
+    "pedestrian": 4.5,
+    "safetyAssist": 4.5,
+    "overall": 4.5
+  },
+  "crashTests": [
+    {
+      "type": "pole",
+      "score": 12.1,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "side",
+      "score": 14.6,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Adaptive Cruise Control",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    }
+  ],
+  "adultOccupant": {
+    "score": 31.2,
+    "maxScore": 38,
+    "details": "The vehicle demonstrated strong performance in protecting adult occupants. Protection levels were good for all critical body areas."
+  },
+  "childOccupant": {
+    "score": 47.1,
+    "maxScore": 49,
+    "details": "Protection for child dummies was good across all impact scenarios. ISOFIX anchors were clearly marked and accessible."
+  },
+  "vulnerableRoadUsers": {
+    "score": 37.8,
+    "maxScore": 42,
+    "details": "Pedestrian protection was good across the bonnet area. Advanced detection systems provided effective collision avoidance."
+  },
+  "safetyAssist": {
+    "score": 13.2,
+    "maxScore": 14,
+    "details": "The vehicle is equipped with an advanced AEB system that can detect pedestrians and cyclists. Lane support system works effectively."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

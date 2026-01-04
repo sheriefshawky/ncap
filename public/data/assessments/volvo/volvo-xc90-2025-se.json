@@ -1,0 +1,122 @@
+{
+  "id": "volvo-xc90-2025-se",
+  "manufacturer": "Volvo",
+  "model": "XC90",
+  "year": 2025,
+  "trim": "SE",
+  "testDate": "2024-02-02",
+  "ratings": {
+    "adult": 4,
+    "child": 4.5,
+    "pedestrian": 5,
+    "safetyAssist": 4,
+    "overall": 4.4
+  },
+  "crashTests": [
+    {
+      "type": "pole",
+      "score": 15,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "side",
+      "score": 15.6,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    }
+  ],
+  "adultOccupant": {
+    "score": 31.3,
+    "maxScore": 38,
+    "details": "The vehicle demonstrated strong performance in protecting adult occupants. Protection levels were good for all critical body areas."
+  },
+  "childOccupant": {
+    "score": 41.7,
+    "maxScore": 49,
+    "details": "In the frontal offset test, protection of all critical body areas was good for both the 6 and 10 year dummies."
+  },
+  "vulnerableRoadUsers": {
+    "score": 41.8,
+    "maxScore": 42,
+    "details": "The bonnet provided good or adequate protection over most of its surface. The AEB system performed well in tests of pedestrian scenarios."
+  },
+  "safetyAssist": {
+    "score": 11.5,
+    "maxScore": 14,
+    "details": "The vehicle is equipped with an advanced AEB system that can detect pedestrians and cyclists. Lane support system works effectively."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

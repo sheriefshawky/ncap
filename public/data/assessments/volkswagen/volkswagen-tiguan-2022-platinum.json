@@ -1,0 +1,139 @@
+{
+  "id": "volkswagen-tiguan-2022-platinum",
+  "manufacturer": "Volkswagen",
+  "model": "Tiguan",
+  "year": 2022,
+  "trim": "Platinum",
+  "testDate": "2024-06-11",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4.5,
+    "pedestrian": 4.5,
+    "safetyAssist": 4,
+    "overall": 4.4
+  },
+  "crashTests": [
+    {
+      "type": "whiplash",
+      "score": 14.9,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "side",
+      "score": 14.9,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "pole",
+      "score": 12.2,
+      "maxScore": 16,
+      "description": "Strong performance in all impact zones",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Adaptive Cruise Control",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    }
+  ],
+  "adultOccupant": {
+    "score": 34.3,
+    "maxScore": 38,
+    "details": "The passenger compartment remained stable in the frontal offset test. Dummy readings indicated good protection of the knees and femurs of both the driver and passenger."
+  },
+  "childOccupant": {
+    "score": 42.6,
+    "maxScore": 49,
+    "details": "The vehicle offers good protection for children in all seating positions. Child seat installation was straightforward."
+  },
+  "vulnerableRoadUsers": {
+    "score": 36,
+    "maxScore": 42,
+    "details": "Good protection was provided to pedestrians in most impact zones. The AEB system effectively avoided collisions with pedestrians."
+  },
+  "safetyAssist": {
+    "score": 11.3,
+    "maxScore": 14,
+    "details": "Advanced driver assistance features are standard. All systems tested demonstrated good performance and reliability."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

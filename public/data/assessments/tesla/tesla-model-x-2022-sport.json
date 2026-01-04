@@ -1,0 +1,137 @@
+{
+  "id": "tesla-model-x-2022-sport",
+  "manufacturer": "Tesla",
+  "model": "Model X",
+  "year": 2022,
+  "trim": "Sport",
+  "testDate": "2024-03-05",
+  "ratings": {
+    "adult": 5,
+    "child": 4.5,
+    "pedestrian": 4.5,
+    "safetyAssist": 4.5,
+    "overall": 4.6
+  },
+  "crashTests": [
+    {
+      "type": "pole",
+      "score": 13.5,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "side",
+      "score": 15.2,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "frontal",
+      "score": 13.5,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    }
+  ],
+  "adultOccupant": {
+    "score": 38,
+    "maxScore": 38,
+    "details": "Excellent structural integrity was maintained during impact. All airbags deployed correctly and provided good protection for occupants."
+  },
+  "childOccupant": {
+    "score": 44.8,
+    "maxScore": 49,
+    "details": "In the frontal offset test, protection of all critical body areas was good for both the 6 and 10 year dummies."
+  },
+  "vulnerableRoadUsers": {
+    "score": 39.1,
+    "maxScore": 42,
+    "details": "Pedestrian protection was good across the bonnet area. Advanced detection systems provided effective collision avoidance."
+  },
+  "safetyAssist": {
+    "score": 12.1,
+    "maxScore": 14,
+    "details": "Advanced driver assistance features are standard. All systems tested demonstrated good performance and reliability."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

@@ -1,0 +1,126 @@
+{
+  "id": "volvo-c40-2024-sport",
+  "manufacturer": "Volvo",
+  "model": "C40",
+  "year": 2024,
+  "trim": "Sport",
+  "testDate": "2024-06-22",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4,
+    "pedestrian": 5,
+    "safetyAssist": 4,
+    "overall": 4.4
+  },
+  "crashTests": [
+    {
+      "type": "side",
+      "score": 12.7,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "whiplash",
+      "score": 15,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "pole",
+      "score": 15.8,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Traffic Sign Recognition",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    }
+  ],
+  "adultOccupant": {
+    "score": 32.8,
+    "maxScore": 38,
+    "details": "The vehicle demonstrated strong performance in protecting adult occupants. Protection levels were good for all critical body areas."
+  },
+  "childOccupant": {
+    "score": 39.7,
+    "maxScore": 49,
+    "details": "Protection for child dummies was good across all impact scenarios. ISOFIX anchors were clearly marked and accessible."
+  },
+  "vulnerableRoadUsers": {
+    "score": 40.9,
+    "maxScore": 42,
+    "details": "The bonnet provided good or adequate protection over most of its surface. The AEB system performed well in tests of pedestrian scenarios."
+  },
+  "safetyAssist": {
+    "score": 11.6,
+    "maxScore": 14,
+    "details": "The safety assist systems provided effective support to the driver. Lane keeping and emergency braking systems functioned reliably."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

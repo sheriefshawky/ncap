@@ -1,0 +1,116 @@
+{
+  "id": "polestar-polestar-3-2024-xle",
+  "manufacturer": "Polestar",
+  "model": "Polestar 3",
+  "year": 2024,
+  "trim": "XLE",
+  "testDate": "2024-03-20",
+  "ratings": {
+    "adult": 4,
+    "child": 4.5,
+    "pedestrian": 4.5,
+    "safetyAssist": 5,
+    "overall": 4.5
+  },
+  "crashTests": [
+    {
+      "type": "whiplash",
+      "score": 13.4,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "frontal",
+      "score": 12.7,
+      "maxScore": 16,
+      "description": "Strong performance in all impact zones",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Traffic Sign Recognition",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    }
+  ],
+  "adultOccupant": {
+    "score": 30.6,
+    "maxScore": 38,
+    "details": "Good protection was provided to all body regions. The vehicle structure remained stable throughout the impact."
+  },
+  "childOccupant": {
+    "score": 42.8,
+    "maxScore": 49,
+    "details": "The vehicle offers good protection for children in all seating positions. Child seat installation was straightforward."
+  },
+  "vulnerableRoadUsers": {
+    "score": 36.3,
+    "maxScore": 42,
+    "details": "The vehicle demonstrated strong pedestrian protection. Active safety systems performed well in avoiding vulnerable road user impacts."
+  },
+  "safetyAssist": {
+    "score": 13.6,
+    "maxScore": 14,
+    "details": "The vehicle is equipped with an advanced AEB system that can detect pedestrians and cyclists. Lane support system works effectively."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

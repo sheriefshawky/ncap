@@ -1,0 +1,138 @@
+{
+  "id": "mercedes-benz-glc-2025-limited",
+  "manufacturer": "Mercedes-Benz",
+  "model": "GLC",
+  "year": 2025,
+  "trim": "Limited",
+  "testDate": "2024-09-15",
+  "ratings": {
+    "adult": 4.5,
+    "child": 5,
+    "pedestrian": 4.5,
+    "safetyAssist": 4.5,
+    "overall": 4.6
+  },
+  "crashTests": [
+    {
+      "type": "side",
+      "score": 15.3,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "pole",
+      "score": 13.5,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "frontal",
+      "score": 13.8,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    }
+  ],
+  "adultOccupant": {
+    "score": 35.1,
+    "maxScore": 38,
+    "details": "The vehicle demonstrated strong performance in protecting adult occupants. Protection levels were good for all critical body areas."
+  },
+  "childOccupant": {
+    "score": 47,
+    "maxScore": 49,
+    "details": "Protection for child dummies was good across all impact scenarios. ISOFIX anchors were clearly marked and accessible."
+  },
+  "vulnerableRoadUsers": {
+    "score": 36.4,
+    "maxScore": 42,
+    "details": "The vehicle demonstrated strong pedestrian protection. Active safety systems performed well in avoiding vulnerable road user impacts."
+  },
+  "safetyAssist": {
+    "score": 12.6,
+    "maxScore": 14,
+    "details": "Advanced driver assistance features are standard. All systems tested demonstrated good performance and reliability."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

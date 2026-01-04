@@ -1,0 +1,138 @@
+{
+  "id": "nissan-kicks-2024-premium",
+  "manufacturer": "Nissan",
+  "model": "Kicks",
+  "year": 2024,
+  "trim": "Premium",
+  "testDate": "2024-11-08",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4,
+    "pedestrian": 4.5,
+    "safetyAssist": 4.5,
+    "overall": 4.4
+  },
+  "crashTests": [
+    {
+      "type": "side",
+      "score": 13,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "frontal",
+      "score": 14.2,
+      "maxScore": 16,
+      "description": "Strong performance in all impact zones",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Automatic High Beams",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Adaptive Cruise Control",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    }
+  ],
+  "adultOccupant": {
+    "score": 34.9,
+    "maxScore": 38,
+    "details": "The passenger compartment remained stable in the frontal offset test. Dummy readings indicated good protection of the knees and femurs of both the driver and passenger."
+  },
+  "childOccupant": {
+    "score": 40.3,
+    "maxScore": 49,
+    "details": "Protection for child dummies was good across all impact scenarios. ISOFIX anchors were clearly marked and accessible."
+  },
+  "vulnerableRoadUsers": {
+    "score": 36.6,
+    "maxScore": 42,
+    "details": "The vehicle demonstrated strong pedestrian protection. Active safety systems performed well in avoiding vulnerable road user impacts."
+  },
+  "safetyAssist": {
+    "score": 13.2,
+    "maxScore": 14,
+    "details": "The vehicle is equipped with an advanced AEB system that can detect pedestrians and cyclists. Lane support system works effectively."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

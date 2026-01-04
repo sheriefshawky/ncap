@@ -1,0 +1,134 @@
+{
+  "id": "tesla-model-x-2025-limited",
+  "manufacturer": "Tesla",
+  "model": "Model X",
+  "year": 2025,
+  "trim": "Limited",
+  "testDate": "2024-07-26",
+  "ratings": {
+    "adult": 5,
+    "child": 5,
+    "pedestrian": 5,
+    "safetyAssist": 5,
+    "overall": 5
+  },
+  "crashTests": [
+    {
+      "type": "frontal",
+      "score": 13.5,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "whiplash",
+      "score": 13.4,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Adaptive Cruise Control",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    }
+  ],
+  "adultOccupant": {
+    "score": 37.2,
+    "maxScore": 38,
+    "details": "The passenger compartment remained stable in the frontal offset test. Dummy readings indicated good protection of the knees and femurs of both the driver and passenger."
+  },
+  "childOccupant": {
+    "score": 47.2,
+    "maxScore": 49,
+    "details": "Child restraint systems were well accommodated. The vehicle provided good protection for child occupants of various sizes."
+  },
+  "vulnerableRoadUsers": {
+    "score": 41.8,
+    "maxScore": 42,
+    "details": "Good protection was provided to pedestrians in most impact zones. The AEB system effectively avoided collisions with pedestrians."
+  },
+  "safetyAssist": {
+    "score": 13.9,
+    "maxScore": 14,
+    "details": "The vehicle is equipped with an advanced AEB system that can detect pedestrians and cyclists. Lane support system works effectively."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

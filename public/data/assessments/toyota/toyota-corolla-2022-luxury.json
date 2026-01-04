@@ -1,0 +1,155 @@
+{
+  "id": "toyota-corolla-2022-luxury",
+  "manufacturer": "Toyota",
+  "model": "Corolla",
+  "year": 2022,
+  "trim": "Luxury",
+  "testDate": "2024-11-26",
+  "ratings": {
+    "adult": 4,
+    "child": 4,
+    "pedestrian": 4,
+    "safetyAssist": 5,
+    "overall": 4.3
+  },
+  "crashTests": [
+    {
+      "type": "pole",
+      "score": 14.3,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "whiplash",
+      "score": 14.3,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "frontal",
+      "score": 13.8,
+      "maxScore": 16,
+      "description": "Strong performance in all impact zones",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Adaptive Cruise Control",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    }
+  ],
+  "adultOccupant": {
+    "score": 31.2,
+    "maxScore": 38,
+    "details": "Excellent structural integrity was maintained during impact. All airbags deployed correctly and provided good protection for occupants."
+  },
+  "childOccupant": {
+    "score": 38.9,
+    "maxScore": 49,
+    "details": "The vehicle offers good protection for children in all seating positions. Child seat installation was straightforward."
+  },
+  "vulnerableRoadUsers": {
+    "score": 35.1,
+    "maxScore": 42,
+    "details": "The vehicle demonstrated strong pedestrian protection. Active safety systems performed well in avoiding vulnerable road user impacts."
+  },
+  "safetyAssist": {
+    "score": 13.4,
+    "maxScore": 14,
+    "details": "Advanced driver assistance features are standard. All systems tested demonstrated good performance and reliability."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

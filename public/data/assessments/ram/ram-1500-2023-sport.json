@@ -1,0 +1,115 @@
+{
+  "id": "ram-1500-2023-sport",
+  "manufacturer": "RAM",
+  "model": "1500",
+  "year": 2023,
+  "trim": "Sport",
+  "testDate": "2024-04-16",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4,
+    "pedestrian": 5,
+    "safetyAssist": 4.5,
+    "overall": 4.5
+  },
+  "crashTests": [
+    {
+      "type": "side",
+      "score": 13.8,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "whiplash",
+      "score": 14.6,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    }
+  ],
+  "adultOccupant": {
+    "score": 35.9,
+    "maxScore": 38,
+    "details": "The vehicle demonstrated strong performance in protecting adult occupants. Protection levels were good for all critical body areas."
+  },
+  "childOccupant": {
+    "score": 38.2,
+    "maxScore": 49,
+    "details": "The vehicle offers good protection for children in all seating positions. Child seat installation was straightforward."
+  },
+  "vulnerableRoadUsers": {
+    "score": 41.6,
+    "maxScore": 42,
+    "details": "Pedestrian protection was good across the bonnet area. Advanced detection systems provided effective collision avoidance."
+  },
+  "safetyAssist": {
+    "score": 12.6,
+    "maxScore": 14,
+    "details": "Comprehensive suite of safety assist systems. All active safety features performed well in testing scenarios."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

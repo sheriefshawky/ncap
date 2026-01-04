@@ -1,0 +1,114 @@
+{
+  "id": "toyota-highlander-2022-base",
+  "manufacturer": "Toyota",
+  "model": "Highlander",
+  "year": 2022,
+  "trim": "Base",
+  "testDate": "2024-07-24",
+  "ratings": {
+    "adult": 4,
+    "child": 4,
+    "pedestrian": 4.5,
+    "safetyAssist": 4.5,
+    "overall": 4.3
+  },
+  "crashTests": [
+    {
+      "type": "frontal",
+      "score": 15.8,
+      "maxScore": 16,
+      "description": "Adequate protection with minor concerns",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "side",
+      "score": 13.4,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": false,
+      "standard": false
+    }
+  ],
+  "adultOccupant": {
+    "score": 31.6,
+    "maxScore": 38,
+    "details": "Good protection was provided to all body regions. The vehicle structure remained stable throughout the impact."
+  },
+  "childOccupant": {
+    "score": 40.2,
+    "maxScore": 49,
+    "details": "The vehicle offers good protection for children in all seating positions. Child seat installation was straightforward."
+  },
+  "vulnerableRoadUsers": {
+    "score": 39.8,
+    "maxScore": 42,
+    "details": "Pedestrian protection was good across the bonnet area. Advanced detection systems provided effective collision avoidance."
+  },
+  "safetyAssist": {
+    "score": 12.6,
+    "maxScore": 14,
+    "details": "Advanced driver assistance features are standard. All systems tested demonstrated good performance and reliability."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

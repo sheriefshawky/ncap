@@ -1,0 +1,131 @@
+{
+  "id": "toyota-avalon-2024-base",
+  "manufacturer": "Toyota",
+  "model": "Avalon",
+  "year": 2024,
+  "trim": "Base",
+  "testDate": "2024-09-06",
+  "ratings": {
+    "adult": 4,
+    "child": 4.5,
+    "pedestrian": 4.5,
+    "safetyAssist": 4.5,
+    "overall": 4.4
+  },
+  "crashTests": [
+    {
+      "type": "frontal",
+      "score": 14.2,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "pole",
+      "score": 13.6,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    }
+  ],
+  "adultOccupant": {
+    "score": 30,
+    "maxScore": 38,
+    "details": "Good protection was provided to all body regions. The vehicle structure remained stable throughout the impact."
+  },
+  "childOccupant": {
+    "score": 42.8,
+    "maxScore": 49,
+    "details": "The vehicle offers good protection for children in all seating positions. Child seat installation was straightforward."
+  },
+  "vulnerableRoadUsers": {
+    "score": 37,
+    "maxScore": 42,
+    "details": "The vehicle demonstrated strong pedestrian protection. Active safety systems performed well in avoiding vulnerable road user impacts."
+  },
+  "safetyAssist": {
+    "score": 12.7,
+    "maxScore": 14,
+    "details": "Comprehensive suite of safety assist systems. All active safety features performed well in testing scenarios."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

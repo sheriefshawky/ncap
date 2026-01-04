@@ -1,0 +1,137 @@
+{
+  "id": "tesla-model-3-2022-le",
+  "manufacturer": "Tesla",
+  "model": "Model 3",
+  "year": 2022,
+  "trim": "LE",
+  "testDate": "2024-02-04",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4,
+    "pedestrian": 4,
+    "safetyAssist": 4.5,
+    "overall": 4.3
+  },
+  "crashTests": [
+    {
+      "type": "whiplash",
+      "score": 14.9,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "side",
+      "score": 15.2,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "pole",
+      "score": 14.7,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Pedestrian Detection",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    }
+  ],
+  "adultOccupant": {
+    "score": 33.2,
+    "maxScore": 38,
+    "details": "The vehicle demonstrated strong performance in protecting adult occupants. Protection levels were good for all critical body areas."
+  },
+  "childOccupant": {
+    "score": 38.5,
+    "maxScore": 49,
+    "details": "In the frontal offset test, protection of all critical body areas was good for both the 6 and 10 year dummies."
+  },
+  "vulnerableRoadUsers": {
+    "score": 35.4,
+    "maxScore": 42,
+    "details": "The bonnet provided good or adequate protection over most of its surface. The AEB system performed well in tests of pedestrian scenarios."
+  },
+  "safetyAssist": {
+    "score": 11.9,
+    "maxScore": 14,
+    "details": "Advanced driver assistance features are standard. All systems tested demonstrated good performance and reliability."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

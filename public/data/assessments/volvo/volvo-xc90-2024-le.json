@@ -1,0 +1,148 @@
+{
+  "id": "volvo-xc90-2024-le",
+  "manufacturer": "Volvo",
+  "model": "XC90",
+  "year": 2024,
+  "trim": "LE",
+  "testDate": "2024-11-09",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4.5,
+    "pedestrian": 4.5,
+    "safetyAssist": 4.5,
+    "overall": 4.5
+  },
+  "crashTests": [
+    {
+      "type": "side",
+      "score": 12.6,
+      "maxScore": 16,
+      "description": "Strong performance in all impact zones",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "frontal",
+      "score": 12.1,
+      "maxScore": 16,
+      "description": "Excellent structural integrity maintained",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "whiplash",
+      "score": 13.8,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Adaptive Cruise Control",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    }
+  ],
+  "adultOccupant": {
+    "score": 35.3,
+    "maxScore": 38,
+    "details": "Excellent structural integrity was maintained during impact. All airbags deployed correctly and provided good protection for occupants."
+  },
+  "childOccupant": {
+    "score": 46.2,
+    "maxScore": 49,
+    "details": "In the frontal offset test, protection of all critical body areas was good for both the 6 and 10 year dummies."
+  },
+  "vulnerableRoadUsers": {
+    "score": 37.1,
+    "maxScore": 42,
+    "details": "The vehicle demonstrated strong pedestrian protection. Active safety systems performed well in avoiding vulnerable road user impacts."
+  },
+  "safetyAssist": {
+    "score": 12.7,
+    "maxScore": 14,
+    "details": "The vehicle is equipped with an advanced AEB system that can detect pedestrians and cyclists. Lane support system works effectively."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

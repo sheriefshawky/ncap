@@ -1,0 +1,145 @@
+{
+  "id": "tesla-model-s-2025-luxury",
+  "manufacturer": "Tesla",
+  "model": "Model S",
+  "year": 2025,
+  "trim": "Luxury",
+  "testDate": "2024-02-07",
+  "ratings": {
+    "adult": 5,
+    "child": 4.5,
+    "pedestrian": 4,
+    "safetyAssist": 4,
+    "overall": 4.4
+  },
+  "crashTests": [
+    {
+      "type": "pole",
+      "score": 13.2,
+      "maxScore": 16,
+      "description": "Satisfactory protection for occupants",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "frontal",
+      "score": 13.3,
+      "maxScore": 16,
+      "description": "Adequate protection with minor concerns",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "whiplash",
+      "score": 13.1,
+      "maxScore": 16,
+      "description": "Strong performance in all impact zones",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Traction Control",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Adaptive Cruise Control",
+      "available": true,
+      "standard": false,
+      "performance": "Good"
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    }
+  ],
+  "adultOccupant": {
+    "score": 37.6,
+    "maxScore": 38,
+    "details": "Excellent structural integrity was maintained during impact. All airbags deployed correctly and provided good protection for occupants."
+  },
+  "childOccupant": {
+    "score": 42.9,
+    "maxScore": 49,
+    "details": "Protection for child dummies was good across all impact scenarios. ISOFIX anchors were clearly marked and accessible."
+  },
+  "vulnerableRoadUsers": {
+    "score": 35.2,
+    "maxScore": 42,
+    "details": "The bonnet provided good or adequate protection over most of its surface. The AEB system performed well in tests of pedestrian scenarios."
+  },
+  "safetyAssist": {
+    "score": 11.2,
+    "maxScore": 14,
+    "details": "The vehicle is equipped with an advanced AEB system that can detect pedestrians and cyclists. Lane support system works effectively."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}

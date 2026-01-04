@@ -1,0 +1,130 @@
+{
+  "id": "lincoln-continental-2024-sport",
+  "manufacturer": "Lincoln",
+  "model": "Continental",
+  "year": 2024,
+  "trim": "Sport",
+  "testDate": "2024-05-10",
+  "ratings": {
+    "adult": 4.5,
+    "child": 4,
+    "pedestrian": 4.5,
+    "safetyAssist": 5,
+    "overall": 4.5
+  },
+  "crashTests": [
+    {
+      "type": "pole",
+      "score": 13.8,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "frontal",
+      "score": 13.3,
+      "maxScore": 16,
+      "description": "Good protection for all critical body areas",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Adaptive Cruise Control",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Traffic Sign Recognition",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": true,
+      "standard": true,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Rear Cross Traffic Alert",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Driver Attention Monitor",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Anti-lock Braking System",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": false,
+      "standard": false
+    }
+  ],
+  "adultOccupant": {
+    "score": 35.9,
+    "maxScore": 38,
+    "details": "The vehicle demonstrated strong performance in protecting adult occupants. Protection levels were good for all critical body areas."
+  },
+  "childOccupant": {
+    "score": 38.7,
+    "maxScore": 49,
+    "details": "The vehicle offers good protection for children in all seating positions. Child seat installation was straightforward."
+  },
+  "vulnerableRoadUsers": {
+    "score": 37.2,
+    "maxScore": 42,
+    "details": "Good protection was provided to pedestrians in most impact zones. The AEB system effectively avoided collisions with pedestrians."
+  },
+  "safetyAssist": {
+    "score": 14,
+    "maxScore": 14,
+    "details": "Comprehensive suite of safety assist systems. All active safety features performed well in testing scenarios."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates excellent overall safety performance with outstanding scores across all categories."
+}

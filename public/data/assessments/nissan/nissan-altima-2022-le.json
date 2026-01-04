@@ -1,0 +1,137 @@
+{
+  "id": "nissan-altima-2022-le",
+  "manufacturer": "Nissan",
+  "model": "Altima",
+  "year": 2022,
+  "trim": "LE",
+  "testDate": "2024-04-18",
+  "ratings": {
+    "adult": 4,
+    "child": 4.5,
+    "pedestrian": 4.5,
+    "safetyAssist": 4.5,
+    "overall": 4.4
+  },
+  "crashTests": [
+    {
+      "type": "frontal",
+      "score": 13.5,
+      "maxScore": 16,
+      "description": "Adequate protection with minor concerns",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    },
+    {
+      "type": "pole",
+      "score": 12.4,
+      "maxScore": 16,
+      "description": "Adequate protection with minor concerns",
+      "images": [
+        "http://localhost:3000/img/3D-Car-Sample.jpg",
+        "http://localhost:3000/img/3D-Car-Sample.jpg"
+      ]
+    }
+  ],
+  "safetyFeatures": [
+    {
+      "name": "Driver Attention Monitor",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Forward Collision Warning",
+      "available": true,
+      "standard": false,
+      "performance": "Adequate"
+    },
+    {
+      "name": "Lane Departure Warning",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Autonomous Emergency Braking",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Electronic Stability Control",
+      "available": false,
+      "standard": false
+    },
+    {
+      "name": "Adaptive Cruise Control",
+      "available": true,
+      "standard": true,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Automatic High Beams",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    },
+    {
+      "name": "Blind Spot Monitoring",
+      "available": true,
+      "standard": true,
+      "performance": "Good"
+    },
+    {
+      "name": "Hill Start Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Pedestrian Detection",
+      "available": true,
+      "standard": false,
+      "performance": "Excellent"
+    },
+    {
+      "name": "Lane Keep Assist",
+      "available": true,
+      "standard": false,
+      "performance": "Fair"
+    },
+    {
+      "name": "Traction Control",
+      "available": true,
+      "standard": true,
+      "performance": "Fair"
+    }
+  ],
+  "adultOccupant": {
+    "score": 30.7,
+    "maxScore": 38,
+    "details": "Good protection was provided to all body regions. The vehicle structure remained stable throughout the impact."
+  },
+  "childOccupant": {
+    "score": 42.6,
+    "maxScore": 49,
+    "details": "The vehicle offers good protection for children in all seating positions. Child seat installation was straightforward."
+  },
+  "vulnerableRoadUsers": {
+    "score": 39.7,
+    "maxScore": 42,
+    "details": "The vehicle demonstrated strong pedestrian protection. Active safety systems performed well in avoiding vulnerable road user impacts."
+  },
+  "safetyAssist": {
+    "score": 12.5,
+    "maxScore": 14,
+    "details": "The safety assist systems provided effective support to the driver. Lane keeping and emergency braking systems functioned reliably."
+  },
+  "images": {
+    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "gallery": [
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "http://localhost:3000/img/3D-Car-Sample.jpg"
+    ]
+  },
+  "videoUrl": "",
+  "additionalNotes": "This vehicle demonstrates strong overall safety performance with solid scores across all categories."
+}
