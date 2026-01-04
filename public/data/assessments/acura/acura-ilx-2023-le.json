@@ -133,7 +133,7 @@
     "details": "Advanced driver assistance features are standard. All systems tested demonstrated good performance and reliability."
   },
   "images": {
-    "main": "http://localhost:3000/img/3D-Car-Sample.jpg",
+    "main": "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-le.jpg",
     "gallery": [
       "http://localhost:3000/img/3D-Car-Sample.jpg",
       "http://localhost:3000/img/3D-Car-Sample.jpg",
