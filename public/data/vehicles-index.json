@@ -138,7 +138,7 @@
       "year": 2023,
       "trim": "LE",
       "overallRating": 4.9,
-      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "thumbnailUrl": "https://sheriefshawky.github.io/ncap/public/data/assessments/audi/audi-a6-2023-le.jpg",
       "assessmentPath": "audi/audi-a6-2023-le.json"
     },
     {
