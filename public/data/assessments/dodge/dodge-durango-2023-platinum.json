@@ -10,6 +10,7 @@
   "crashTestWeight": "1167",
   "vinFromWhichRating": "FDSS33D",
   "validForCountry": "SAUDI ARABIA",
+  "manufactureCountry": "China",
   "ratings": {
     "adult": 5,
     "child": 5,
