@@ -8,7 +8,7 @@
       "year": 2023,
       "trim": "Platinum",
       "overallRating": 4.4,
-      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "thumbnailUrl": "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-platinum.jpg",
       "assessmentPath": "acura/acura-ilx-2023-platinum.json"
     },
     {
@@ -28,7 +28,7 @@
       "year": 2023,
       "trim": "Sport",
       "overallRating": 4.6,
-      "thumbnailUrl": "http://localhost:3000/img/3D-Car-Sample.jpg",
+      "thumbnailUrl": "https://sheriefshawky.github.io/ncap/public/data/assessments/acura/acura-ilx-2023-sport.jfif",
       "assessmentPath": "acura/acura-ilx-2023-sport.json"
     },
     {
