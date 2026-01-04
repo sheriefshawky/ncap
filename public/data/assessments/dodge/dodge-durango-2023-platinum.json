@@ -5,6 +5,11 @@
   "year": 2023,
   "trim": "Platinum",
   "testDate": "2024-03-23",
+  "bodyType": "5 door Hatchback - sedan",
+  "yearOfPublication": "2024",
+  "crashTestWeight": "1167",
+  "vinFromWhichRating": "FDSS33D",
+  "validForCountry": "SAUDI ARABIA",
   "ratings": {
     "adult": 5,
     "child": 5,
